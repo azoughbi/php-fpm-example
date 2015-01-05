@@ -35,7 +35,7 @@ The configuration built to use 2 methods:
 
  2. If you want `TCP` socket, Checkout the `tcp` branch:
  
-         `git checkout -b tcp` 
+    `git checkout -b tcp` 
 
  3. replace `php-fpm.conf` and `pool.d/www.conf`.
     
